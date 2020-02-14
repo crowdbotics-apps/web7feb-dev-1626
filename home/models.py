@@ -36,3 +36,8 @@ class HomePage(models.Model):
 class Test(models.Model):
     "Generated Model"
     test = models.BigIntegerField()
+
+
+class Testh(models.Model):
+    "Generated Model"
+    bnmb = models.BigIntegerField()
